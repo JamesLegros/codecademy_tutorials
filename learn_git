@@ -12,3 +12,8 @@ git log       - shows a list of all previous commits
 git checkout HEAD filename  - Discard changes in working directory
 git reset HEAD filename     - Unstages file changes in the staging area
 git reset SHA(7 chars)      - Can be used to reset to a previous commit in your commit history
+
+git branch                - Lists all a Git project's branches
+git branch branch_name    - Creates a new branch
+git checkout branch_name  - Used to switch from one branch to another
+git merge branch_name     - Used to join file changes from one branch to another
