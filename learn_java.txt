@@ -1,0 +1,20 @@
+Intro to Java
+
+Data Types:
+int     - Whole number
+boolean - True/False
+char    - Single character
+
+Variables     - Used to store values
+Whitespace    - Makes code readable, java ignores it
+Comments (//) - Describe code and its purpose
+
+Arithmetic Operators:
++, -, *, /, %
+
+Relational Operators:
+<, <=, >, >=
+
+Equality Operators:
+==, !=
+
