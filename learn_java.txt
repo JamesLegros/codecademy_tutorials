@@ -25,3 +25,13 @@ Order of Boolean Operations:
 2. && (AND)
 3. || (OR)
 
+Statements:
+if, if/else, if/else if/ else statements are used to conditionally execute blocks of code
+
+Ternary Conditional:
+A shortened verision of an if/else statement that returns a value based on the value of a Boolean expression
+
+Switch:
+Allows us to check the equality of a varaible expression with a value that does not need a Boolean
+
+Object Oriented Java
