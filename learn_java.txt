@@ -58,3 +58,15 @@ Inheritance:
 Allows one class to use functionality defined in another class
 
 Data Structures
+
+For Loops:
+Used to repeatedly run a block of code
+
+For Each Loops:
+A concise version of a for loop
+
+ArrayList:
+Stores a list of data
+
+HashMap:
+Stores keys and values like a dictionary
