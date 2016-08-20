@@ -1,0 +1,27 @@
+HTML & CSS Tutorial
+
+HMTL  = HyperText Markup Language
+CSS   = Cascading Style Sheets
+
+Set up the skeleton of the page:
+a. Always put <!DOCTYPE html> on the first line. This tells the browser what language its reading
+b. Always put <html> on the next line. This starts the HTML document
+c. Always put </html> on the last line. This ends the HTML document
+
+Basic Terminology
+1. Things inside '<>'s are called tags
+2. Tags nearly always come in pairs: an opening tag and a closing tag.
+3. Opening tag: <html>
+4. Closing tag: </html>
+
+Treat tags like parentheses. Tags can also nest, so pay attention
+
+An HTML file has both a head and a body. 
+Head: where you put information about the HTML file, like its title
+Body: where you put your content, such as text, images, and links. The content in the body is what will be visible on the actual page
+
+Body tags:
+<p>, </p> : Pargraph tag
+<h1>, </h1> : Title tag
+6 sizes of Title tags, 1 is largest, 6 is smallest
+
