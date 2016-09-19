@@ -1,6 +1,6 @@
-Learn Git Tutorial
+# Learn Git Tutorial
 
-Command line commands:
+## Command line commands:
 
 git init      - Creates a new git repository
 git status    - inspects the contents of the working directory and staging area
@@ -24,7 +24,7 @@ git fetch               - Fetches work from the remote into the local copy
 git merge origin/master - Merges origin/master to your local branch
 git push origin <banch> - Pushes a local branch to the origin remote
 
-Git collaboration steps:
+### Git collaboration steps:
   1. Fetch and merge changes from the remote
   2. Create a branch to work on a new project feature
   3. Develop the feature on your branch and commit your work
