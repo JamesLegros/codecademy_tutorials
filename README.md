@@ -1,2 +1,2 @@
-# codecademy_tutorials
+## codecademy_tutorials
 Learning log from tutorials
