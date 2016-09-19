@@ -8,11 +8,35 @@
 git init
 	```
 	
-* git status    - 'inspects the contents of the working directory and staging area' 
-git add file  - adds files from the working directory to the staging area
-git diff      - shows difference between working directory and staging area
-git commit    - permanently stores file changes from the staging area in the repository
-git log       - shows a list of all previous commits
+* Inspect the contents of the working directory and staging area
+	
+	```
+git status    
+	```
+
+* Add files from the working directory to the staging area
+
+	```
+git add file 
+	```
+	
+* Show difference between working directory and staging area
+
+	```
+git diff
+	```
+	
+* Permanently store file changes from the staging area in the repository
+
+	```
+git commit
+	```
+
+* Show a list of all previous commits
+
+	```
+git log
+	```
 
 git checkout HEAD filename  - Discard changes in working directory
 git reset HEAD filename     - Unstages file changes in the staging area
