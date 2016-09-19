@@ -2,8 +2,8 @@
 
 ## Command line commands:
 
-git init      - Creates a new git repository
-git status    - inspects the contents of the working directory and staging area
+git init      > Creates a new git repository  
+git status    > inspects the contents of the working directory and staging area  
 git add file  - adds files from the working directory to the staging area
 git diff      - shows difference between working directory and staging area
 git commit    - permanently stores file changes from the staging area in the repository
