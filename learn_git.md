@@ -38,20 +38,89 @@ git commit
 git log
 	```
 
-git checkout HEAD filename  - Discard changes in working directory
-git reset HEAD filename     - Unstages file changes in the staging area
-git reset SHA(7 chars)      - Can be used to reset to a previous commit in your commit history
 
-git branch                - Lists all a Git project's branches
-git branch branch_name    - Creates a new branch
-git checkout branch_name  - Used to switch from one branch to another
-git merge branch_name     - Used to join file changes from one branch to another
+* Discard changes in working directory
 
-git clone               - Creates a local copy of a remote
-git remote -v           - Lists a Git project's remotes
-git fetch               - Fetches work from the remote into the local copy
-git merge origin/master - Merges origin/master to your local branch
-git push origin <banch> - Pushes a local branch to the origin remote
+	```
+git checkout HEAD filename
+	```
+
+* Unstage file changes in the staging area
+
+	```
+git reset HEAD filename
+	```
+
+* Reset to a previous commit in your commit history
+
+	```
+git reset SHA(7 chars) 
+	```
+
+
+
+* List all of a Git project's branches
+
+	```
+git branch
+	```
+
+* Create a new branch
+
+	```
+git branch branch_name 
+	```
+
+* Switch from one branch to another
+
+	```
+git checkout branch_name
+	```
+
+
+* Join file changes from one branch to another
+
+	```
+git merge branch_name
+	```
+
+
+
+* Create a local copy of a remote
+
+	```
+git clone
+	```
+
+
+* List a Git project's remotes
+
+	```
+git remote -v
+	```
+
+
+* Fetch work from the remote into the local copy
+
+	```
+git fetch
+	```
+
+
+* Merge origin/master to your local branch
+
+	```
+git merge origin/master
+	```
+
+
+* Push a local branch to the origin remote
+
+	```
+git push origin <banch>
+	```
+
+
 
 ### Git collaboration steps:
   1. Fetch and merge changes from the remote
